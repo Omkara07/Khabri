@@ -1,0 +1,33 @@
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='business'/></div>
+},
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='entertainment'/></div>
+},
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='general'/></div>
+},
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='health'/></div>
+},
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='science'/></div>
+},
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='sports'/></div>
+},
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='technology'/></div>
+}
+
+{
+    path: "/",
+    element: <div><Navbar/><News pageSize={6} country='in' category='all categories'/></div>
+},
